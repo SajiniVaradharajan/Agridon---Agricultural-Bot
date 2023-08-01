@@ -47,6 +47,8 @@ Plant Disease Prediction App - ![image](https://github.com/SajiniVaradharajan/Ag
 
 Note - Please enter all the values in the Crop and Fertilizer Prediction App. When the Prediction is made, Agridon turns. The video has been uploaded. Agridon's image has been used in the project and has also been uploaded.
 
+Agridon - Farmer's Friend and Farmer's Pride!
+
 
 
 
