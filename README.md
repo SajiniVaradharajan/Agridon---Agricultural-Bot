@@ -8,35 +8,39 @@ Here is the User Interface for each segment of Agridon:
 Introduction Page - 
 
 
-![image](https://github.com/SajiniVaradharajan/Agridon---Agricultural-Bot/assets/111878080/13dceee2-a7a8-42e5-8cce-558bedf7f0de)
+![image](https://github.com/SajiniVaradharajan/Agridon---Agricultural-Bot/assets/111878080/8bbe9cd6-480d-4830-afe3-3d4574afb1b2)
 
 
 
-Soil Type Prediction App - 
+
+Soil Type Prediction App - ![image](https://github.com/SajiniVaradharajan/Agridon---Agricultural-Bot/assets/111878080/29cd9710-b19c-4911-9bc9-14cdbf6ad86c)
 
 
-![image](https://github.com/SajiniVaradharajan/Agridon---Agricultural-Bot/assets/111878080/02384527-d25c-48ff-b017-3d0d9c35e804)
 
 
+Crop and Fertilizer Prediction App - ![image](https://github.com/SajiniVaradharajan/Agridon---Agricultural-Bot/assets/111878080/c304315f-cd2e-41bd-a3af-b2ab975f3f45)
 
-Crop and Fertilizer Prediction App - ![image](https://github.com/SajiniVaradharajan/Agridon---Agricultural-Bot/assets/111878080/6f22b707-e481-4726-ac61-27c9b16e77ad)
 
-
-Plant Disease Prediction App - ![image](https://github.com/SajiniVaradharajan/Agridon---Agricultural-Bot/assets/111878080/02b4be1a-d39c-480a-bf61-0c6586fea296)
+Plant Disease Prediction App - ![image](https://github.com/SajiniVaradharajan/Agridon---Agricultural-Bot/assets/111878080/58ed8db9-884e-4a44-af85-743210513a46)
 
 
 Here are the cycles for the smooth flow of the application (User Requirements and Outputs are involved):
 
 
-Introduction Page - ![image](https://github.com/SajiniVaradharajan/Agridon---Agricultural-Bot/assets/111878080/5523c07a-8d15-4921-95cf-7153409b2c41)
+Introduction Page - ![image](https://github.com/SajiniVaradharajan/Agridon---Agricultural-Bot/assets/111878080/7506a537-8b60-4b6f-91c0-08c48b4f1a4a)
 
 
-Soil Type Prediction App - ![image](https://github.com/SajiniVaradharajan/Agridon---Agricultural-Bot/assets/111878080/7fb9373a-d2ff-4539-9708-e83330d33ffd)
+
+Soil Type Prediction App - ![image](https://github.com/SajiniVaradharajan/Agridon---Agricultural-Bot/assets/111878080/2917e16e-5939-4bb5-a970-eaf826d4bddb)
 
 
-Crop and Fertilizer Prediction App - ![image](https://github.com/SajiniVaradharajan/Agridon---Agricultural-Bot/assets/111878080/bde7aa35-24f5-4fa5-89a7-b01e774169cd)
 
-Plant Disease Prediction App - ![image](https://github.com/SajiniVaradharajan/Agridon---Agricultural-Bot/assets/111878080/8369d9b1-c3df-4691-991a-5ddeeb7c59fd)
+Crop and Fertilizer Prediction App - ![image](https://github.com/SajiniVaradharajan/Agridon---Agricultural-Bot/assets/111878080/bde94ecb-4134-4b04-8fd8-7366d23d454e)
+
+
+
+Plant Disease Prediction App - ![image](https://github.com/SajiniVaradharajan/Agridon---Agricultural-Bot/assets/111878080/c48c3c70-124c-444e-bd22-34ea4eccfbce)
+
 
 Note - Please enter all the values in the Crop and Fertilizer Prediction App.
 
