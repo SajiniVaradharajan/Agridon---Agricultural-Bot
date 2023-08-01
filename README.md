@@ -13,7 +13,10 @@ Introduction Page -
 
 
 
-Soil Type Prediction App - ![image](https://github.com/SajiniVaradharajan/Agridon---Agricultural-Bot/assets/111878080/29cd9710-b19c-4911-9bc9-14cdbf6ad86c)
+Soil Type Prediction App - 
+
+
+![image](https://github.com/SajiniVaradharajan/Agridon---Agricultural-Bot/assets/111878080/29cd9710-b19c-4911-9bc9-14cdbf6ad86c)
 
 
 
@@ -42,7 +45,7 @@ Crop and Fertilizer Prediction App - ![image](https://github.com/SajiniVaradhara
 Plant Disease Prediction App - ![image](https://github.com/SajiniVaradharajan/Agridon---Agricultural-Bot/assets/111878080/c48c3c70-124c-444e-bd22-34ea4eccfbce)
 
 
-Note - Please enter all the values in the Crop and Fertilizer Prediction App.
+Note - Please enter all the values in the Crop and Fertilizer Prediction App. When the Prediction is made, Agridon turns. The video has been uploaded.
 
 
 
