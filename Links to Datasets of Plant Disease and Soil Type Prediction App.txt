@@ -1,0 +1,4 @@
+Link to Dataset of Plant Disease Prediction App - https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+Link to Dataset of Soil Type Prediction App - https://www.kaggle.com/datasets/jayaprakashpondy/soil-image-dataset?select=Dataset
+The user may download the dataset from these links. 
+Note: The datasets have been shortened in the project. Images have been abridged.
